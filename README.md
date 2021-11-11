@@ -3,7 +3,8 @@
 
 ## Installation
 	git clone https://github.com/by-student-2017/Zeoplus2_v0.3.git
-	cd Zeoplus2_v0.3
+	mv Zeoplus2_v0.3 Zeo++-0.3
+	cd Zeo++-0.3
 	chmod +x install.sh
 	./install.sh
 
