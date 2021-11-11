@@ -1,4 +1,4 @@
-# Zeoplus2_v0.3
+# Zeo++-0.3
 
 
 ## Installation
