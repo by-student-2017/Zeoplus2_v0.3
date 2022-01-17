@@ -1,0 +1,10 @@
+MIL47V.chan   8 channels identified of dimensionality 1 1 1 1 1 1 1 1 
+Channel  0  7.63475  7.16587  7.63475
+Channel  1  7.63847  7.166  7.63847
+Channel  2  7.63475  7.16587  7.63475
+Channel  3  7.63847  7.166  7.63847
+Channel  4  7.63862  7.16602  7.63862
+Channel  5  7.63862  7.16602  7.63862
+Channel  6  7.63475  7.16587  7.63475
+Channel  7  7.63475  7.16587  7.63475
+MIL47V.chan summary(Max_of_columns_above)   7.63862 7.16602  7.63862  probe_rad: 1  probe_diam: 2

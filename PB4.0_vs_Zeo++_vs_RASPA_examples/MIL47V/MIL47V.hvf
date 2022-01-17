@@ -1,0 +1,3 @@
+@ MIL47V.hvf Unitcell_volume: 24546.7   Density: 1.00036   POAV_A^3: 12427.5 POAV_Volume_fraction: 0.50628 POAV_cm^3/g: 0.506099 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: MIL47V.hvf	1.00036	1.32	50000	0.2317	0	0.50628	0	0.10924	0.38448
